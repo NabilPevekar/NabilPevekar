@@ -63,13 +63,3 @@
   <br/>
      <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></a>
   <br/>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-<br/>
