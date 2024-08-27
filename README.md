@@ -57,7 +57,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nabilpevekar&theme=javascript-dark&exclude_days=Fri" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" /></a>
+  <br/>
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
+  <br/>
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></a>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
