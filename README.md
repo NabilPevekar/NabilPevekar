@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, API, AWS**
 
-💬 Ask me about **Python, Cyberseurity, Networking... or anything**
+💬 Ask me about **Linux, Cyberseurity, Networking...**
 
 ⚡ Fun fact **Noob at BGMI**
 
