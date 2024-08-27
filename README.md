@@ -43,9 +43,43 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,linux,bash,windows" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,docker,aws" />
-    <img src="https://skillicons.dev/icons?i=networking,jira,vmware,vnc" />
+    <!-- Languages -->
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,python,javascript" />
+
+<div
+    <!-- Tools -->
+    <h3>Tools</h3>
+    <!-- Operating Systems and Shells -->
+    <h4>Operating Systems and Shells</h4>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/Red%20Hat-%232E2A2F?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+<div
+    <!-- Development and Version Control -->
+    <h4>Development and Version Control</h4>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+<div
+    <!-- Cloud and Containerization -->
+    <h4>Cloud and Containerization</h4>
+    <img src="https://skillicons.dev/icons?i=aws,docker" />
+<div
+    <!-- Databases -->
+    <h4>Databases</h4>
+    <img src="https://skillicons.dev/icons?i=mysql" />
+
+<div
+    <!-- Additional Tools -->
+    <h4>Additional Tools</h4>
+    <img src="https://img.shields.io/badge/ServiceNow-003C71?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-6F3E4D?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
 <br/>
@@ -60,17 +94,25 @@
 </div>
 
 <hr/>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; padding: 0 10px;">
-  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 300px; box-sizing: border-box;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+<div align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/nabilpevekar">
+    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 300px; box-sizing: border-box;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%; height: auto;"/>
+  <br/>
+  
+  <!-- GitHub Streak -->
+  <a href="https://github.com/nabilpevekar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
-  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 300px; box-sizing: border-box;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 100%; height: auto;"/>
+  <br/>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/nabilpevekar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
   </a>
 </div>
