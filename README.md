@@ -30,10 +30,10 @@
   <a href="https://github.com/nabilpevekar" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-username/" target="_blank">
+  <a href="https://www.instagram.com/nabilpevekar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-username" target="_blank">
+  <a href="https://twitter.com/nabilpevekar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
