@@ -62,17 +62,15 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" width="400" height="200"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" style="width: 100%;"/>
   </a>
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" width="400" height="200"/>
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%;"/>
   </a>
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" width="400" height="200"/>
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 100%;"/>
   </a>
-  <br/>
 </div>
+
