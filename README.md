@@ -30,10 +30,10 @@
   <a href="https://github.com/nabilpevekar" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nabilpevekar/" target="_blank">
+  <a href="https://www.instagram.com/your-username/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/nabilpevekar" target="_blank">
+  <a href="https://twitter.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -62,15 +62,17 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" style="width: 100%;"/>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" width="400" height="200"/>
   </a>
-  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%;"/>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" width="400" height="200"/>
   </a>
-  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 100%;"/>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" width="400" height="200"/>
   </a>
+  <br/>
 </div>
-
