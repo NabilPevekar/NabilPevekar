@@ -43,8 +43,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,linux,bash" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,linux,bash,windows" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,flask,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=networking,jira,vmware,vnc" />
 </div>
 
 <br/>
@@ -62,17 +63,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" width="400" height="200"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; padding: 0 10px;">
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 300px; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" style="width: 100%; height: auto;"/>
   </a>
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" width="400" height="200"/>
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 300px; box-sizing: border-box;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilpevekar&theme=radical&hide_border=false" alt="GitHub Streak" style="width: 100%; height: auto;"/>
   </a>
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" width="400" height="200"/>
+  <a href="https://git.io/streak-stats" style="flex: 1 1 300px; max-width: 300px; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilpevekar&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 100%; height: auto;"/>
   </a>
-  <br/>
 </div>
