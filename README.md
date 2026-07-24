@@ -69,6 +69,8 @@
 
 <br><br>
 
+<h2 align="center"> Tools </h2>
+<p align="center">
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge"/>
@@ -76,7 +78,7 @@
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
 <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow"/>
 
-</p>
+</p> </h2>
 <div
     <!-- Development and Version Control -->
     <h4>Development and Version Control</h4>
