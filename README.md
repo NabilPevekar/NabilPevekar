@@ -74,12 +74,12 @@
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
 <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow"/>
 
 </p> </h2>
-<div
+<div align="center">
     <!-- Development and Version Control -->
     <h4>Development and Version Control</h4>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
@@ -92,19 +92,6 @@
     <!-- Databases -->
     <h4>Databases</h4>
     <img src="https://skillicons.dev/icons?i=mysql" />
-
-<div
-    <!-- Additional Tools -->
-    <h4>Additional Tools</h4>
-    <img src="https://img.shields.io/badge/ServiceNow-003C71?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-    <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
-    <img src="https://img.shields.io/badge/Burp%20Suite-6F3E4D?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
