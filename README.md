@@ -40,19 +40,13 @@
 
 ## 🏆 Certifications
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/" target="_blank">
-<img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/EC--Council-CEH-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
-<a href="https://www.credly.com/" target="_blank">
-<img src="https://img.shields.io/badge/EC--Council-CEH-success?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Certified-Ethical%20Hacker-darkred?style=for-the-badge"/>
 
-<a href="https://aws.amazon.com/" target="_blank">
 <img src="https://img.shields.io/badge/IIHT-Cloud%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
 
 </p>
 <hr/>
