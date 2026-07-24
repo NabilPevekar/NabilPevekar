@@ -51,16 +51,15 @@
 </p>
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
     <!-- Languages -->
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=html,css,python" />
 
-## 💻 Skills
+<h2> align="center" Skills 💻 </h2>
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/>
 
