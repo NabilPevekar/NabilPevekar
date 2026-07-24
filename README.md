@@ -53,13 +53,15 @@
  
 
 <h2 align="center"> Languages </h2>
-   <p <img src="https://skillicons.dev/icons?i=html,css,python" </p>
+   <p <img src="https://skillicons.dev/icons?i=html,css,python"/>
+   </p>
+   <br><br>
 
 <h2 align="center" Skills 💻 </h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/> </p> </h2>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/> 
 
 <br><br>
 
