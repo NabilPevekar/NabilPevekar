@@ -61,7 +61,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/> </p>
 
 <br><br>
 
