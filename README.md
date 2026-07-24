@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **SOC Analyst Learning Path**
- 
- 🌱 I’m currently learning **SIEM, THREAT ANALYSIS, INCIDENT RESPONCE**
+*CEH Certified | IT Support Engineer | Cybersecurity Enthusiast*
 
-💬 Ask me about **Linux, Cyberseurity, Networking...**
+🔭 Currently working on **SOC Analyst Labs and Security Projects**
 
-⚡ Fun fact **Noob at BGMI**
+🌱 Learning **SIEM, Threat Detection, Incident Response**
+
+💬 Ask me about **Windows, Linux, Networking, AWS and Web Security**
 
 </div>
  
