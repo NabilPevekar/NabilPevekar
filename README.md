@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Pevekar!;" />
 </h1>
 
-<h3 align="center">A Cybersecurity researcher aka Ethical Hacker</h3>
+<h3 align="center">A Cybersecurity researcher / Learner</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Pentesting Projects**
+ 🔭 I’m currently working on **SOC Analyst Learning Path**
  
- 🌱 I’m currently learning **Docker, API, AWS**
+ 🌱 I’m currently learning **SIEM, THREAT ANALYSIS, INCIDENT RESPONCE**
 
 💬 Ask me about **Linux, Cyberseurity, Networking...**
 
@@ -24,16 +24,16 @@
   <a href="mailto:pevekarnabil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/nabil-pevekar-832884284" target="_blank">
+  <a href="https://www.linkedin.com/in/nabilpevekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/nabilpevekar" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-username/" target="_blank">
+  <a href="https://www.instagram.com/er.nabilpevekar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-username" target="_blank">
+  <a href="https://twitter.com/NabilPevekar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -45,7 +45,7 @@
 <div align="center">
     <!-- Languages -->
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,python,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,python" />
 
 <div
     <!-- Tools -->
@@ -79,7 +79,6 @@
     <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
     <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
     <img src="https://img.shields.io/badge/Burp%20Suite-6F3E4D?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
 
 <br/>
