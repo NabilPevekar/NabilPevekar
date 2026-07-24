@@ -53,8 +53,7 @@
  
 
 <h2 align="center"> Languages </h2>
-   <p <img src="https://skillicons.dev/icons?i=html,css,python" />
-   </p>
+   <p <img src="https://skillicons.dev/icons?i=html,css,python" </p>
 
 <h2 align="center" Skills 💻 </h2>
 
