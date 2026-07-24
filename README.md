@@ -54,10 +54,10 @@
 
 <div align="center">
     <!-- Languages -->
-    <h3>Languages</h3>
+    <h2>Languages</h2>
     <img src="https://skillicons.dev/icons?i=html,css,python" />
 
-<h2> align="center" Skills 💻 </h2>
+<h2 align="center" Skills 💻 </h2>
 
 <p align="center">
 
