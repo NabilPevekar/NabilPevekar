@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabil+Pevekar!;" />
 </h1>
 
-<h3 align="center">A Cybersecurity researcher / Learner</h3>
+<h3 align="center">CEH Certified | IT Support Engineer | Cybersecurity Enthusiast</h3>
 
 <br/>
 
@@ -38,6 +38,23 @@
   </a>
 </div>
 
+## 🏆 Certifications
+
+<p align="left">
+
+<a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/" target="_blank">
+<img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/" target="_blank">
+<img src="https://img.shields.io/badge/EC--Council-CEH-success?style=for-the-badge"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://img.shields.io/badge/IIHT-Cloud%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+</p>
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
