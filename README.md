@@ -64,16 +64,22 @@
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=html,css,python" />
 
-<div
-    <!-- Tools -->
-    <h3>Tools</h3>
-    <!-- Operating Systems and Shells -->
-    <h4>Operating Systems and Shells</h4>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-    <img src="https://img.shields.io/badge/Red%20Hat-%232E2A2F?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+## 💻 Skills
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow"/>
+
+</p>
 <div
     <!-- Development and Version Control -->
     <h4>Development and Version Control</h4>
