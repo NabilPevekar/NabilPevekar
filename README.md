@@ -59,11 +59,13 @@
    </h2>
    <br><br>
 
-<h2 align="center" Skills 💻 </h2>
+
+<h2 align="center"> Skills 💻 </h2>
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws,docker,mysql"/> 
+</p> </h2>
 
 <br><br>
 
